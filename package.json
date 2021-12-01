@@ -1,0 +1,23 @@
+{
+  "name": "test-cli1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "g":"./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClaudeFalzon/test-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClaudeFalzon/test-cli/issues"
+  },
+  "homepage": "https://github.com/ClaudeFalzon/test-cli#readme"
+}
