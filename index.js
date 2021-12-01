@@ -25,7 +25,7 @@ if (message && branchname) {
   });
 } else {
   console.log(
-    " please provide 2 arguments. 1st argument is the mssage you want to commit and 2nd argument is the branch gert name..."
+    " please provide 2 arguments. 1st argument is the mssage you want to commit and 2nd argument is the branchfsdfsa  gert name..."
   );
 }
 
