@@ -16,7 +16,7 @@ if (message && branchname) {
         throw new Error("something is wrong");
       }
 
-      exec(`git push -u origin ${branchname}`, (err, stour, stderr) => {
+      exec(`git push origin ${branchname}`, (err, stour, stderr) => {
         if (err) {
           throw new Error("something is wrong");
         }
